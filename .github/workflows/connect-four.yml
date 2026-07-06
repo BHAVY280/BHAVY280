@@ -1,0 +1,14 @@
+name: Connect Four Game
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  play:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Play Connect Four
+        uses: mscoutermarsh/connect-four-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
