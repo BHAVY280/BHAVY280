@@ -4,9 +4,9 @@
 
 ## 🧑‍💻 About Me
 * 🎓 Pursuing **B.E. in Computer Engineering**
-* 🏫 **S. S. Agrawal Institute of Engineering & Technology (SSASIT), Surat**
+* 🏫 ** (SSASIT), Surat**
 * 🏢 Affiliated with **Gujarat Technological University (GTU)**
-* 🎯 Interested in software development, building cool web applications, and exploring advanced technologies.
+* 🎯 Interested in problem solving and AI/ML.
 * 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/bhavykumar-patel-3ba52530a)
 
 ---
@@ -48,7 +48,9 @@
 ---
 
 ## 🎮 Play Tic-Tac-Toe on my Profile!
-તમે નીચેના ખાલી બોક્સ પર ક્લિક કરીને ગેમ શરૂ કરી શકો છો. આ ગેમ ઓટોમેટિક GitHub Actions દ્વારા અપડેટ થાય છે!
+
+> 🎮 **You can start the game by clicking on the empty box below.**  
+> ⚡ *This game is automatically updated via GitHub Actions!*
 
 <p align="center">
   <a href="https://github.com/BHAVY280/BHAVY280/issues/new?title=ttt%3A0%252C0"><img src="https://raw.githubusercontent.com/grubersjo/tic-tac-toe-readme/master/assets/empty.png" width="90" height="90" /></a>
