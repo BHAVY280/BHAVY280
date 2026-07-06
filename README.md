@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=250&section=header&text=Hii,%20I'm%20BHAVY&fontSize=45&animation=typing&fontColor=FFE873" alt="Bhavy's Perfect Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=3776AB&height=250&section=header&text=Hii,%20I'm%20BHAVY&fontSize=45&animation=waving&fontColor=FFE873" alt="Bhavy's Top and Bottom Wave Banner" />
 </p>
 
 <p align="center">
@@ -39,7 +39,9 @@
   <img src="https://komarev.com/ghvc/?username=BHAVY280&label=Profile+Views&color=0e75b6&style=flat" alt="Views Counter" />
 </p>
 
---- ## 🛠️ Tech Stack & Skills
+---
+
+## 🛠️ Tech Stack & Skills
 <p align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
