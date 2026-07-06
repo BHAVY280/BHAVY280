@@ -1,4 +1,28 @@
-# 👋 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F74780&center=false&vCenter=false&width=435&lines=Hii%2C+I+am+BHAVY;Welcome+to+my+profile!" alt="Typing Effect" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=3776AB&height=250&section=header&text=Hi%20there!%20I'm%20BHAVY&fontSize=55&animation=twinkle&fontColor=FFE873" alt="Bhavy's Premium Banner" />
+</p>
+
+<p align="center">
+  <strong>🚀 Computer Engineering Student | Problem Solver | AI & ML Enthusiast 🐍</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bhavykumar-patel-3ba52530a" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:bhavy.patel3112@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/BHAVY280" target="_blank">
+    <img src="https://img.shields.io/badge/LEETCODE-%23FAB005.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/bhavy_ptl_3112" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
 ---
 
@@ -7,7 +31,6 @@
 * 🏫 **SSASIT, Surat**
 * 🏢 Affiliated with **Gujarat Technological University (GTU)**
 * 🎯 Interested in **Problem Solving**, **AI/ML**, and exploring advanced technologies (especially Python 🐍).
-* 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/bhavykumar-patel-3ba52530a)
 
 ---
 
@@ -15,20 +38,6 @@
 <p align="left">
   <img src="https://komarev.com/ghvc/?username=BHAVY280&label=Profile+Views&color=0e75b6&style=flat" alt="Views Counter" />
 </p>
-
----
-
-## 💭 Quote of the Day
-<p align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote of the Day" />
-</p>
-
----
-
-## 🎯 My Goals
-* 🚀 Deeply learning **Artificial Intelligence (AI)** and **Machine Learning (ML)**.
-* 🧠 Understanding algorithms, data models, and how to build smart applications.
-* 💻 Planning to build innovative AI-driven projects during my engineering journey.
 
 ---
 
@@ -41,14 +50,4 @@
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
----
-
-## 📊 My GitHub Stats & Metrics
-<p align="left">
-  <!-- આ નવું કાર્ડ ક્યારેય ડાઉન નહીં થાય અને પરફેક્ટ સ્ટેટ્સ બતાવશે -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BHAVY280&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BHAVY280&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
 </p>
