@@ -4,9 +4,9 @@
 
 ## 🧑‍💻 About Me
 * 🎓 Pursuing **B.E. in Computer Engineering**
-* 🏫 **S. S. Agrawal Institute of Engineering & Technology (SSASIT), Surat**
+* 🏫 **SSASIT, Surat**
 * 🏢 Affiliated with **Gujarat Technological University (GTU)**
-* 🎯 Interested in software development, building cool web applications, and exploring advanced technologies.
+* 🎯 Interested in **Problem Solving**, **AI/ML**, and exploring advanced technologies (especially Python 🐍).
 * 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/bhavykumar-patel-3ba52530a)
 
 ---
@@ -14,6 +14,13 @@
 ## 💭 Quote of the Day
 <p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote of the Day" />
+</p>
+
+---
+
+## 🎮 My GitHub Contribution Python Snake Game
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bhavy280/bhavy280/output/github-contribution-grid-snake-dark.svg" alt="Python Snake Game" />
 </p>
 
 ---
@@ -43,24 +50,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHAVY280&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Langs" />
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BHAVY280&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-## 🎮 Play Tic-Tac-Toe on my Profile!
-
-> 🎮 **You can start the game by clicking on any empty box below.**  
-> ⚡ *This game is automatically updated via GitHub Actions!*
-
-<p align="center">
-  <a href="https://github.com/bhavy280/bhavy280/issues/new?title=ttt%3A0%252C0">🔹 [ ⬜ ]</a> &nbsp;&nbsp;
-  <a href="https://github.com/bhavy280/bhavy280/issues/new?title=ttt%3A0%252C1">🔹 [ ⬜ ]</a> &nbsp;&nbsp;
-  <a href="https://github.com/bhavy280/bhavy280/issues/new?title=ttt%3A0%252C2">🔹 [ ⬜ ]</a>
-  <br/><br/>
-  <a href="https://github.com/bhavy280/bhavy280/issues/new?title=ttt%3A1%252C0">🔹 [ ⬜ ]</a> &nbsp;&nbsp;
-  <a href="https://github.com/bhavy280/bhavy280/issues/new?title=ttt%3A1%252C1">🔹 [ ⬜ ]</a> &nbsp;&nbsp;
-  <a href="https://github.com/bhavy280/bhavy280/issues/new?title=ttt%3A1%252C2">🔹 [ ⬜ ]</a>
-  <br/><br/>
-  <a href="https://github.com/bhavy280/bhavy280/issues/new?title=ttt%3A2%252C0">🔹 [ ⬜ ]</a> &nbsp;&nbsp;
-  <a href="https://github.com/bhavy280/bhavy280/issues/new?title=ttt%3A2%252C1">🔹 [ ⬜ ]</a> &nbsp;&nbsp;
-  <a href="https://github.com/bhavy280/bhavy280/issues/new?title=ttt%3A2%252C2">🔹 [ ⬜ ]</a>
 </p>
