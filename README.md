@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=3776AB&height=250&section=header&text=Hii,%20I'm%20BHAVY&fontSize=45&animation=waving&fontColor=FFE873" alt="Bhavy's Top and Bottom Wave Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=250&section=header&text=Hii,%20I'm%20BHAVY&fontSize=45&fontColor=FFE873" alt="Bhavy's Animated Wave Banner" />
 </p>
 
 <p align="center">
